@@ -1,4 +1,4 @@
-#Power Consumption analysis
+#Power Consumption analysis#
 
 This repository is a part of data science externship by SmartBridge powered by IBM and this repository contains the project that I developed. 
 
